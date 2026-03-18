@@ -1,0 +1,13 @@
+.git/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.streamlit/secrets.toml
+.env
+.vscode/
+.idea/
+_deprecated/
+*.log
