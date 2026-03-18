@@ -1,9 +1,0 @@
-[theme]
-primaryColor = "#F63366"   # Couleur des boutons et curseurs (Ex: un rouge/rose dynamique)
-backgroundColor = "#FFFFFF" # Fond de la page (Blanc propre)
-secondaryBackgroundColor = "#F0F2F6" # Fond de la sidebar (Gris très clair)
-textColor = "#262730"       # Couleur du texte (Gris foncé lisible)
-font = "sans serif"         # Police moderne
-
-[server]
-runOnSave = true            # Rafraîchit l'app dès que vous sauvegardez un fichier
