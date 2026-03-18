@@ -1,0 +1,407 @@
+partner_name,opp_stage,amount
+Accenture,F,24439
+Accenture,A,35929
+Accenture,A,9273
+Capgemini,F,15194
+Capgemini,B,49808
+Capgemini,C,4714
+Atos,B,13796
+Atos,D,30124
+Atos,D,32572
+Atos,B,35306
+Atos,E,12970
+Atos,Win,46504
+Atos,D,36917
+Atos,D,16974
+Sopra Steria,B,6779
+Sopra Steria,Win,37488
+Sopra Steria,Win,47135
+Sopra Steria,F,8716
+Sopra Steria,C,47719
+Sopra Steria,F,32649
+Sopra Steria,B,33518
+Sopra Steria,E,48138
+IBM,F,41720
+IBM,C,18218
+IBM,D,32179
+IBM,F,15649
+IBM,C,13027
+IBM,F,15704
+IBM,C,35578
+IBM,Win,21194
+IBM,F,33408
+IBM,E,40226
+IBM,C,6603
+IBM,E,6084
+Deloitte,A,24329
+Deloitte,A,6294
+Deloitte,B,46895
+PwC,A,11778
+PwC,Win,25561
+PwC,B,38600
+PwC,F,48805
+PwC,Lost,20048
+PwC,B,7070
+PwC,B,22357
+PwC,E,33636
+PwC,A,18203
+PwC,Lost,12055
+PwC,C,31902
+PwC,A,31367
+PwC,E,43153
+PwC,Lost,12813
+KPMG,Lost,39220
+KPMG,E,30383
+KPMG,Lost,14632
+KPMG,B,10007
+KPMG,Win,34919
+KPMG,A,38336
+KPMG,Lost,24784
+KPMG,Win,4370
+EY,E,20935
+EY,E,25382
+EY,Win,27543
+EY,D,28790
+EY,C,9925
+EY,Lost,49075
+EY,C,23330
+EY,C,28767
+EY,Lost,31233
+EY,B,11433
+EY,B,10243
+EY,E,11133
+Bain & Company,Lost,28244
+Bain & Company,Win,12112
+Bain & Company,A,4424
+Bain & Company,Lost,24780
+Bain & Company,F,40264
+Bain & Company,C,27094
+Bain & Company,Lost,32620
+Bain & Company,B,39613
+Bain & Company,F,37315
+Bain & Company,F,35171
+Bain & Company,Win,21990
+Bain & Company,F,49715
+Bain & Company,F,18771
+Bain & Company,A,29810
+McKinsey,Lost,33111
+McKinsey,B,8388
+McKinsey,D,38541
+BCG,B,10571
+BCG,A,19578
+BCG,E,35436
+BCG,Win,25784
+BCG,D,13392
+BCG,F,29903
+BCG,Lost,17125
+BCG,C,25163
+BCG,Lost,24412
+BCG,Win,21118
+BCG,D,35173
+Salesforce,F,36105
+Salesforce,F,4341
+Salesforce,A,30061
+Salesforce,C,16592
+Salesforce,Lost,15906
+Salesforce,Lost,12382
+Microsoft,D,33617
+Microsoft,C,19509
+Microsoft,Win,47905
+Microsoft,E,6390
+Microsoft,E,12612
+Google Cloud,A,39646
+Google Cloud,Lost,9185
+Google Cloud,Lost,15414
+Google Cloud,B,25715
+Google Cloud,D,33099
+Google Cloud,F,12808
+AWS Partner,Lost,40219
+AWS Partner,E,43925
+AWS Partner,E,37215
+AWS Partner,F,47281
+AWS Partner,F,41823
+Oracle,E,24442
+Oracle,E,4198
+Oracle,Lost,12559
+Oracle,A,48958
+Oracle,E,38634
+Oracle,F,26343
+SAP,E,8557
+SAP,D,6708
+SAP,F,27287
+SAP,Win,46960
+SAP,A,9170
+SAP,D,45842
+SAP,C,23247
+SAP,B,49408
+SAP,E,41858
+SAP,E,4043
+SAP,B,24114
+SAP,F,19956
+SAP,B,10766
+SAP,Win,20846
+SAP,F,11596
+Cisco Systems,F,39986
+Cisco Systems,C,4756
+Cisco Systems,Lost,34947
+Dell Technologies,D,46726
+Dell Technologies,D,5779
+Dell Technologies,Win,39201
+Dell Technologies,A,12722
+Dell Technologies,C,19709
+Dell Technologies,E,30121
+Dell Technologies,A,7588
+HP Enterprise,Win,5682
+HP Enterprise,C,39850
+HP Enterprise,A,29340
+HP Enterprise,Win,12886
+Lenovo,F,6466
+Lenovo,B,19537
+Lenovo,D,8006
+Lenovo,B,30116
+Lenovo,A,47306
+Lenovo,Lost,11959
+Lenovo,C,17941
+Lenovo,A,49633
+Lenovo,F,23730
+Lenovo,E,30203
+Lenovo,A,29944
+Lenovo,A,36527
+Lenovo,D,24640
+Lenovo,D,17947
+Sony Professional,E,49857
+Sony Professional,Win,48239
+Sony Professional,A,46478
+Sony Professional,E,11616
+Sony Professional,A,49638
+Sony Professional,B,38836
+Sony Professional,D,36434
+Sony Professional,Lost,28031
+Samsung B2B,D,33035
+Samsung B2B,Lost,38320
+Samsung B2B,Win,41351
+LG Business,E,18733
+LG Business,Win,17378
+LG Business,D,49558
+LG Business,Lost,42357
+LG Business,C,43129
+LG Business,D,16474
+LG Business,A,5432
+LG Business,Win,12414
+LG Business,C,21828
+LG Business,E,46959
+LG Business,F,28003
+Panasonic,A,17094
+Panasonic,C,15836
+Panasonic,A,19609
+Panasonic,C,46155
+Panasonic,Win,49218
+Panasonic,C,18968
+Panasonic,F,34122
+Panasonic,E,13052
+Panasonic,D,35558
+Toshiba,C,4920
+Toshiba,D,22793
+Toshiba,Lost,45471
+Toshiba,B,33393
+Toshiba,Win,23323
+Toshiba,B,42646
+Toshiba,B,31747
+Hitachi Vantara,B,11925
+Hitachi Vantara,B,48208
+Hitachi Vantara,D,12954
+Hitachi Vantara,E,46766
+Hitachi Vantara,A,15138
+Hitachi Vantara,D,15730
+Hitachi Vantara,A,33855
+Hitachi Vantara,E,18288
+Hitachi Vantara,F,16402
+Hitachi Vantara,D,38194
+Hitachi Vantara,D,27395
+Hitachi Vantara,E,13587
+Hitachi Vantara,Win,26094
+Hitachi Vantara,F,33589
+Hitachi Vantara,E,37422
+Siemens,Win,43527
+Siemens,B,49437
+Siemens,A,5804
+Siemens,Win,36949
+Siemens,Win,26107
+Siemens,D,31771
+Siemens,Win,4784
+Siemens,F,46708
+General Electric,B,4440
+General Electric,Win,30259
+General Electric,Win,30038
+General Electric,F,23783
+General Electric,F,19587
+General Electric,Lost,4895
+General Electric,A,49837
+General Electric,E,5066
+General Electric,F,41441
+General Electric,A,38877
+General Electric,Lost,36773
+Schneider Electric,C,43752
+Schneider Electric,B,11687
+Schneider Electric,B,32551
+Schneider Electric,C,36489
+Schneider Electric,A,26914
+Schneider Electric,D,26821
+Schneider Electric,B,21474
+Schneider Electric,E,31476
+Schneider Electric,B,31215
+Schneider Electric,A,41709
+Schneider Electric,E,19147
+Schneider Electric,E,25603
+Schneider Electric,F,16543
+Schneider Electric,Lost,25293
+Schneider Electric,Lost,24024
+Legrand,B,43631
+Legrand,C,36608
+Legrand,Lost,44283
+Legrand,F,34579
+Legrand,D,15255
+Orange Business,A,26330
+Orange Business,B,4462
+Orange Business,E,4412
+Orange Business,A,45746
+Orange Business,Lost,38181
+Orange Business,E,34082
+Orange Business,C,40598
+Orange Business,A,28062
+Orange Business,Lost,14842
+Orange Business,C,16832
+Orange Business,E,43971
+Orange Business,B,47915
+SFR Business,Lost,25079
+SFR Business,E,37570
+SFR Business,Lost,26285
+SFR Business,E,38587
+SFR Business,A,45830
+SFR Business,B,33798
+SFR Business,B,30855
+SFR Business,Win,23037
+SFR Business,F,26761
+Bouygues Telecom,Lost,30309
+Bouygues Telecom,F,8974
+Bouygues Telecom,F,17542
+Bouygues Telecom,D,16519
+Bouygues Telecom,F,23187
+Bouygues Telecom,D,45665
+Bouygues Telecom,Lost,22371
+Bouygues Telecom,Win,24779
+Bouygues Telecom,B,23508
+Bouygues Telecom,Lost,16736
+Bouygues Telecom,C,34925
+Bouygues Telecom,B,6859
+Free Pro,F,6918
+Free Pro,F,25987
+Free Pro,E,41993
+Free Pro,E,20846
+Free Pro,Lost,38008
+TotalEnergies,A,32823
+TotalEnergies,A,10025
+TotalEnergies,A,28511
+TotalEnergies,A,31651
+TotalEnergies,C,37961
+Engie Solutions,D,36746
+Engie Solutions,B,28939
+Engie Solutions,Win,37198
+Engie Solutions,F,9171
+Engie Solutions,B,9775
+Engie Solutions,F,22412
+Engie Solutions,A,21440
+Engie Solutions,B,21521
+Engie Solutions,Win,19000
+EDF Entreprises,Lost,29643
+EDF Entreprises,F,28479
+EDF Entreprises,D,42236
+EDF Entreprises,Lost,21236
+EDF Entreprises,B,49013
+EDF Entreprises,Lost,33849
+EDF Entreprises,C,18751
+EDF Entreprises,Win,20674
+EDF Entreprises,B,24696
+EDF Entreprises,B,22386
+EDF Entreprises,B,41393
+EDF Entreprises,E,44193
+Veolia,C,37689
+Veolia,Lost,15713
+Veolia,Lost,10047
+Veolia,B,8167
+Veolia,F,19802
+Veolia,D,47161
+Veolia,E,6059
+Veolia,E,19210
+Veolia,Lost,43201
+Veolia,F,44409
+Veolia,A,16021
+Veolia,Lost,30966
+Veolia,B,21242
+Veolia,Win,43281
+Veolia,E,25296
+Suez,B,37155
+Suez,C,16913
+Suez,A,37515
+Suez,Lost,30501
+Suez,F,49151
+Suez,F,43726
+Suez,D,34675
+Suez,C,47705
+Vinci Energies,A,39710
+Vinci Energies,Lost,36471
+Vinci Energies,Win,16687
+Vinci Energies,A,15665
+Vinci Energies,Lost,29652
+Vinci Energies,F,43911
+Vinci Energies,Lost,19626
+Vinci Energies,Lost,29844
+Vinci Energies,A,4236
+Vinci Energies,B,47259
+Vinci Energies,Win,27804
+Eiffage,Lost,20056
+Eiffage,D,43239
+Eiffage,F,20459
+Eiffage,Lost,37213
+Eiffage,E,23060
+Eiffage,D,49883
+Eiffage,C,35524
+Eiffage,F,27715
+Eiffage,C,12921
+Eiffage,A,23362
+Eiffage,Lost,47896
+Eiffage,Lost,11039
+Spie,Lost,45244
+Spie,D,24850
+Spie,E,38727
+Saint-Gobain,Lost,43117
+Saint-Gobain,Lost,49382
+Saint-Gobain,B,6189
+Saint-Gobain,E,27616
+Saint-Gobain,Win,45241
+Saint-Gobain,Lost,36742
+Saint-Gobain,F,17704
+Saint-Gobain,Lost,41744
+Thales,F,35190
+Thales,C,37882
+Thales,Lost,6690
+Dassault Systèmes,E,4426
+Dassault Systèmes,Win,30620
+Dassault Systèmes,Win,44236
+Airbus,F,40367
+Airbus,A,6643
+Airbus,E,36955
+Airbus,Lost,14213
+Airbus,A,4612
+Airbus,Win,20020
+Airbus,D,28655
+Safran,C,32287
+Safran,C,23024
+Safran,Lost,43411
+Safran,Lost,21253
+Safran,C,11611
+Safran,F,7664
+Safran,E,41907
+Renault Group,F,20237
+Renault Group,E,28611
+Renault Group,C,20645

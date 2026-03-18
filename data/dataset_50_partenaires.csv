@@ -1,0 +1,51 @@
+partner_name,expertise_level,sector,partner_type
+Accenture,3,Industrie,SI
+Capgemini,1,Consulting,Distributeur
+Atos,2,Consulting,ISV
+Sopra Steria,5,Consulting,ISV
+IBM,1,Energie,ISV
+Deloitte,3,IT,SI
+PwC,5,IT,Distributeur
+KPMG,2,Energie,Distributeur
+EY,3,Industrie,VAR
+Bain & Company,4,Telco,SI
+McKinsey,5,Consulting,SI
+BCG,1,Telco,Distributeur
+Salesforce,3,Energie,Distributeur
+Microsoft,5,Energie,ISV
+Google Cloud,2,Industrie,VAR
+AWS Partner,4,Telco,VAR
+Oracle,1,Energie,Distributeur
+SAP,5,Telco,VAR
+Cisco Systems,4,Industrie,SI
+Dell Technologies,1,Industrie,Distributeur
+HP Enterprise,1,Telco,SI
+Lenovo,2,Energie,Distributeur
+Sony Professional,1,Telco,ISV
+Samsung B2B,3,Industrie,SI
+LG Business,3,IT,Distributeur
+Panasonic,1,Telco,VAR
+Toshiba,2,Telco,Distributeur
+Hitachi Vantara,5,Energie,VAR
+Siemens,2,IT,ISV
+General Electric,4,IT,SI
+Schneider Electric,2,Industrie,Distributeur
+Legrand,5,Consulting,Distributeur
+Orange Business,3,Consulting,ISV
+SFR Business,2,IT,SI
+Bouygues Telecom,2,Consulting,VAR
+Free Pro,5,Industrie,ISV
+TotalEnergies,4,Energie,VAR
+Engie Solutions,5,Industrie,ISV
+EDF Entreprises,2,IT,ISV
+Veolia,5,Energie,VAR
+Suez,4,Consulting,ISV
+Vinci Energies,4,Energie,ISV
+Eiffage,4,IT,ISV
+Spie,2,IT,SI
+Saint-Gobain,4,Consulting,SI
+Thales,5,Energie,Distributeur
+Dassault Systèmes,2,Consulting,SI
+Airbus,1,Telco,Distributeur
+Safran,4,Telco,SI
+Renault Group,2,Energie,Distributeur
