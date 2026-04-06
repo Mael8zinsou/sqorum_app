@@ -126,3 +126,21 @@ Tant que ton app dépend de Supabase au démarrage, “exportable pour n’impor
 Ça marche pour toi parce que tu as ton environnement. Pas pour un utilisateur externe.
 
 Avec un mode demo, tu transformes Squorum en vrai produit testable par tous, immédiatement.
+
+
+# État de Squorum : Docker + Render / Déploiement : 
+
+Test local avant Render
+docker build -t squorum .
+
+docker run -p 8501:8501 -e SQUORUM_MODE=demo squorum
+
+## Déploiement Render : ordre conseillé
+Push GitHub
+Test Docker local
+Crée un Web Service Render connecté au repo
+Render détecte le Dockerfile
+Mets SQUORUM_MODE=demo pour commencer
+Vérifie le flow complet : Import → Scoring → Partenaires → Décisions
+
+Render peut auto-déployer à chaque push GitHub.

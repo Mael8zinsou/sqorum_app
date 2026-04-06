@@ -4,11 +4,15 @@ import streamlit as st
 VALID_MODES = ("demo", "saas")
 
 
-def get_default_mode() -> str:
-    mode = None
+def _safe_get_secret(key: str, default=None):
+    try:
+        return st.secrets.get(key, default)
+    except Exception:
+        return default
 
-    if "SQUORUM_MODE" in st.secrets:
-        mode = st.secrets["SQUORUM_MODE"]
+
+def get_default_mode() -> str:
+    mode = _safe_get_secret("SQUORUM_MODE")
 
     if not mode:
         mode = os.getenv("SQUORUM_MODE", "demo")

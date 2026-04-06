@@ -7,3 +7,7 @@ services:
     envVars:
       - key: SQUORUM_MODE
         value: demo
+      - key: SUPABASE_URL
+        value: https://npovhkaupuagcvzhaibv.supabase.co
+      - key: SUPABASE_KEY
+        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5wb3Zoa2F1cHVhZ2N2emhhaWJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE3NjM2MTUsImV4cCI6MjA4NzMzOTYxNX0.RhWcsmEAhFgj5Dq6s3ajf-OmzqlPHK9HbKvA7bBUmdc
